@@ -1,1 +1,1 @@
-rancher/jimmidyson-configmap-reload:v0.3.0
+kubesphere/log-sidecar-injector:1.1
