@@ -1,1 +1,1 @@
-docker.m.daocloud.io/redis:7
+rancher/jimmidyson-configmap-reload:v0.3.0
